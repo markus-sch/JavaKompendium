@@ -64,6 +64,8 @@ public class Datentypen {
 		meinSet.add(7); // wird nicht neu hinzugefügt, weil schon in der Liste enthalten.
 		System.out.println("Inhalt des Sets: " + meinSet);
 
+		// Queues
+
 	}
 
 }
