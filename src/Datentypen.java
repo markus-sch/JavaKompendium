@@ -69,3 +69,4 @@ public class Datentypen {
 	}
 
 }
+// Diesen Kommentar schreibe ich auf der VM-Development-Maschine, um Git zu testen.
