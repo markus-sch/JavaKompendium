@@ -70,3 +70,6 @@ public class Datentypen {
 
 }
 // Diesen Kommentar schreibe ich auf der VM-Development-Maschine, um Git zu testen.
+
+// Und das hier schreibe ich nun auf dem Macbook15. Vielleicht ist ein Netbeans auf jedem Rechner ja doch die bessere Lösung?
+
