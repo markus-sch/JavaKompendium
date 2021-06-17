@@ -73,3 +73,4 @@ public class Datentypen {
 
 // Und das hier schreibe ich nun auf dem Macbook15. Vielleicht ist ein Netbeans auf jedem Rechner ja doch die bessere Lösung?
 
+// Geschrieben auf dem Macbook 13 unter Linux Mint auf der Development VM
